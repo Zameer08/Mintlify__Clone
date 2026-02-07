@@ -38,11 +38,5 @@ The goal was to closely match the original design, not to add interactivity or c
 
 ---
 
-## Screenshots
-![Screenshot]
-
-
----
-
 ## Live Demo
 🔗 [View Live Site]
