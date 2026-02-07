@@ -39,4 +39,4 @@ The goal was to closely match the original design, not to add interactivity or c
 ---
 
 ## Live Demo
-🔗 [View Live Site]
+🔗 [View Live Site](https://zameer08.github.io/Mintlify__Clone/)
