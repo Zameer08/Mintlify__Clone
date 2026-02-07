@@ -95,7 +95,7 @@ nav .nav-items .nav-logo a svg {
 
 /* hero */
 .hero {
-  background: url("../assets/img/bg-light.svg");
+  background: url("./assets/img/bg-light.svg");
   background-size: cover;
   background-position: top center;
   display: flex;
@@ -361,7 +361,7 @@ nav .nav-items .nav-logo a svg {
 }
 
 .feature-story {
-  background: url(../assets/img/anthropic.svg);
+  background: url(./assets/img/anthropic.svg);
   color: #fff;
   padding: 60px;
   border-radius: 24px;
