@@ -38,5 +38,10 @@ The goal was to closely match the original design, not to add interactivity or c
 
 ---
 
+## Screenshots
+![Screenshot](/assets/Screenshots/screenshotofwebpg.png)
+
+---
+
 ## Live Demo
 🔗 [View Live Site](https://zameer08.github.io/Mintlify__Clone/)
